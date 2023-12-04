@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Giulio Ricci
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi, I'm a master student at the university of Bonn. I use this website to keep my notes and anything math related. If you have any corrections you can contact me at 99giulioricci@gmail.com
+
+
