@@ -8,7 +8,7 @@ Hi, I'm a master student at the university of Bonn. I use this website to keep m
 
 This is my CV: [[CV_Giulio_Ricci.pdf]].
 
-![[foto1.jpg|500]]
+![[foto1.jpg|400]]
 
 
 title: Notes
