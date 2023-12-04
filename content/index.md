@@ -13,4 +13,4 @@ This is my CV: [[CV_Giulio_Ricci.pdf]].
 
 title: Notes
 
-Notes from the talk that I gave at the [Kleine AG](https://tommanopulo.com/kleine-ag-september-2023-modularity-lifting-theorems/) in Bonn, september 2023: https://www.overleaf.com/read/zhmcpysggvwq#24cd7f. 
+[Notes](https://www.overleaf.com/read/zhmcpysggvwq#24cd7f) from the talk that I gave at the [Kleine AG](https://tommanopulo.com/kleine-ag-september-2023-modularity-lifting-theorems/) in Bonn, september 2023.
