@@ -21,3 +21,8 @@ Hi, I'm a master student at the university of Bonn. I use this website to keep m
 
 - [[Seminar_talk_8__Definition_and_examples_of_the_DeConcini_Procesi_wonderful_model_of_the_complement_of_a_hyperplane_arrangement.pdf|Notes]] on the De Concini-Procesi wondefull compactification.
 
+
+\
+\
+\
+[[Tesi_Bachelor.pdf|This]] is my bachelor thesis.
