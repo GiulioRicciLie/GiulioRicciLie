@@ -13,7 +13,7 @@ Hi, I'm a master student at the university of Bonn. I use this website to keep m
 
 # Notes
 Kleine_AG__Galois_Representation
-- [[Kleine_AG__Galois_Representation|Notes]] from the talk that I gave at the [Kleine AG](https://tommanopulo.com/kleine-ag-september-2023-modularity-lifting-theorems/) in Bonn in September 2023.
+- [[Kleine_AG__Galois_Representation.pdf|Notes]] from the talk that I gave at the [Kleine AG](https://tommanopulo.com/kleine-ag-september-2023-modularity-lifting-theorems/) in Bonn in September 2023.
 
 - [[Talk_4_seminar__Unramified_L_packets.pdf|Notes]] on unramified L-packets with Calle Sonne.
 
