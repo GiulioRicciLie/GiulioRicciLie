@@ -12,10 +12,10 @@ Hi, I'm a master student at the university of Bonn. I use this website to keep m
 
 
 # Notes
+Kleine_AG__Galois_Representation
+- [[Kleine_AG__Galois_Representation|Notes]] from the talk that I gave at the [Kleine AG](https://tommanopulo.com/kleine-ag-september-2023-modularity-lifting-theorems/) in Bonn in September 2023.
 
-- [Notes](https://www.overleaf.com/read/zhmcpysggvwq#24cd7f) from the talk that I gave at the [Kleine AG](https://tommanopulo.com/kleine-ag-september-2023-modularity-lifting-theorems/) in Bonn in September 2023.
-
-- [Notes](https://www.overleaf.com/read/fjxwxvdwpkgn#62d24f) on unramified L-packets with Calle Sonne.
+- [[Talk_4_seminar__Unramified_L_packets.pdf|Notes]] on unramified L-packets with Calle Sonne.
 
 - [[Talk_8__Bruhat_titts_seminar.pdf|Notes]] on the Moy-Prassad filtration.
 
