@@ -1,7 +1,7 @@
 
 I love very much mathematical book. That's why I decided to include this section on my website, saying which books I own, and the ones on my wishlist.
 
-#Current library
+# Current library
 
 - "Local fields" by Jean-Pierre Serre;
 - "Introduction to Lie algebras and representation theory" by James E. Humphreys.
@@ -10,7 +10,7 @@ I love very much mathematical book. That's why I decided to include this section
 - "Furier analysis on groups" by Walter Rudin.
 - 
 
-#Whishlist
+# Whishlist
 
 - "A Course in Arithmetic" by Jean-Pierre Serre.
 - 
