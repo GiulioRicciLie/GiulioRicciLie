@@ -13,6 +13,6 @@ I love mathematical books very much. That's why I decided to include this sectio
 # Whishlist
 
 - "A Course in Arithmetic" by Jean-Pierre Serre.
-- 
+- "Quantum Groups" by Christian Kassel.
 
 
