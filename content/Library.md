@@ -15,6 +15,7 @@ I love mathematical books very much. That's why I decided to include this sectio
 
 - "A Course in Arithmetic" by Jean-Pierre Serre.
 - "Quantum Groups" by Christian Kassel.
-- "Bruhat-Tits theory, a new approach" by Tasho kaleta and Gopal Prassad.
+- "Bruhat-Tits theory, a new approach" by Tasho Kaleta and Gopal Prassad.
+- "Scavare fossati- nutrire coccodrilli" by Zerocalcare.
 
 
