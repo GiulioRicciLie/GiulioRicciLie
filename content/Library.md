@@ -1,15 +1,20 @@
 
-I love mathematical books very much. That's why I decided to include this section on my website, saying which books I own and the ones on my wishlist.
+Math book lover
 
 # Current library
 
 - "Local fields" by Jean-Pierre Serre;
-- "Introduction to Lie algebras and representation theory" by James E. Humphreys.
-- "Elliptic curves: Diophantine analysis" by Serge Lang.
 - "Algebraic geometry" by Robin Harshtorne.
+- "Elliptic curves: Diophantine analysis" by Serge Lang.
+- "Etale Cohomology" by J.S. Milne.
+- "Etale Cohomology and Weil Conjecture" by Eberhard FReitag and Reinhardt Kiehl.
+- "Lie Groups, Lie Algebras and Their Representations" by V.S. Varadajaran.
+- "Lie Groups, Lie Algebras and Their Representations" by Brian C. Hall.
+- "Introduction to Lie algebras and representation theory" by James E. Humphreys.
+- "Algebra" by Serge Lang.
 - "Fourier analysis on groups" by Walter Rudin.
 - "A course in the theory of groups" by Robinson.
-- 
+- "Algebraic Topology" by Allen Hatcher.
 
 # Whishlist
 
