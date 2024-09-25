@@ -3,8 +3,8 @@ Math book lover
 
 # Current library
 
-- "Local fields" by Jean-Pierre Serre;
-- "Galois theory" by Ian Stewart;
+- "Local fields" by Jean-Pierre Serre.
+- "Galois theory" by Ian Stewart.
 - "Algebraic geometry" by Robin Harshtorne.
 - "Elliptic curves: Diophantine analysis" by Serge Lang.
 - "Etale Cohomology" by J.S. Milne.
