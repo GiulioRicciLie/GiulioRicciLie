@@ -4,6 +4,7 @@ Math book lover
 # Current library
 
 - "Local fields" by Jean-Pierre Serre;
+- "Galois theory" by Ian Stewart;
 - "Algebraic geometry" by Robin Harshtorne.
 - "Elliptic curves: Diophantine analysis" by Serge Lang.
 - "Etale Cohomology" by J.S. Milne.
@@ -19,7 +20,7 @@ Math book lover
 # Whishlist
 
 - "A Course in Arithmetic" by Jean-Pierre Serre.
-- "Quantum Groups" by Christian Kassel.
+- "The local Langlands conjecture for GL(2)" by Colin J.Bushnel and Guy Henniart.
 - "Bruhat-Tits theory, a new approach" by Tasho Kaleta and Gopal Prassad.
 - "Scavare fossati- nutrire coccodrilli" by Zerocalcare.
 
