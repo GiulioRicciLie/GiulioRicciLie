@@ -6,7 +6,7 @@ title: Welcome :)
 
 Hi, I'm a PhD student at Radboud university of Nijmegen. I use this website to keep my notes and anything math related. If you have any corrections or remarks you can contact me at riccigiulio "at" ru.nl. 
 
-[[CV_Giulio_Ricci.pdf|This]] is my CV.
+[[CV_20.01.2025.pdf|This]] is my CV.
 
 ![[foto1.jpg|400]]
 
@@ -17,7 +17,7 @@ Hi, I'm a PhD student at Radboud university of Nijmegen. I use this website to k
 
 - [[Talk_4_seminar__Unramified_L_packets.pdf|Notes]] on unramified L-packets with Calle Sonne.
 
-- [[Talk_8__Bruhat_titts_seminar.pdf|Notes]] on the Moy-Prassad filtration.
+- [[Talk_8__Bruhat_titts_seminar.pdf|Notes]] on the Moy-Prassad filtration.  
 
 - [[Seminar_talk_8__Definition_and_examples_of_the_DeConcini_Procesi_wonderful_model_of_the_complement_of_a_hyperplane_arrangement.pdf|Notes]] on the De Concini-Procesi wonderful compactification.
 
