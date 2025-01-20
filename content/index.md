@@ -4,7 +4,7 @@
 title: Welcome :)
 ---
 
-Hi, I'm a master student at the university of Bonn. I use this website to keep my notes and anything math related. If you have any corrections or remarks you can contact me at 99giulioricci "at" gmail.com.
+Hi, I'm a PhD student at Radboud university of Nijmegen. I use this website to keep my notes and anything math related. If you have any corrections or remarks you can contact me at riccigiulio "at" ru.nl. 
 
 [[CV_Giulio_Ricci.pdf|This]] is my CV.
 
