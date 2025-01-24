@@ -6,7 +6,7 @@ title: Welcome :)
 
 Hi, I'm a PhD student at Radboud university of Nijmegen. I use this website to keep my notes and anything math related. If you have any corrections or remarks you can contact me at giulio.ricci "at" ru.nl. 
 
-[[CV_20.01.2025.pdf|This]] is my CV.
+[[CV_24.01.2025.pdf|This]] is my CV.
 
 ![[foto1.jpg|400]]
 
