@@ -10,6 +10,12 @@ Hi, I'm a PhD student at Radboud university of Nijmegen. I use this website to k
 
 ![[foto1.jpg|400]]
 
+# Teaching
+
+- TA for the course "Spieltheorie" at Radboud University (2025).
+
+- Tutor for the course "Algebra 2, Class Field Theory" at Universitaat Boon (2023).
+
 
 # Notes
 
